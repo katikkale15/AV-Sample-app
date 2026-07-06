@@ -58,17 +58,6 @@ It'll pop open at `http://localhost:8501` automatically. If it doesn't, just pas
 
 ---
 
-## 📸 Adding your own screenshots
-
-1. Run the app locally (`streamlit run app.py`)
-2. Log in as a Technician, take a screenshot of the dashboard, save it as `screenshots/technician-view.png`
-3. Log out, log in as a Manager, trigger a command, screenshot the JSON output, save as `screenshots/manager-view.png`
-4. Create the `screenshots/` folder in your repo if it doesn't exist, drop both images in, commit and push
-5. The image links above in this README will just work once those files exist in the repo
-
-(On Mac: `Cmd+Shift+4` to screenshot a selection. On Windows: `Win+Shift+S`.)
-
----
 
 ## 🗂️ Files
 
