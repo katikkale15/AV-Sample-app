@@ -1,0 +1,7 @@
+staff_name,role,shift_day,shift_start,shift_end,assigned_location
+Alex Chen,Technician,Monday,09:00,17:00,Pfizer Auditorium
+Priya Nair,Technician,Tuesday,10:00,18:00,Room 200
+Jordan Lee,Manager,Monday,08:00,16:00,Education Bldg Lobby
+Sam Osei,Technician,Wednesday,12:00,20:00,Room 101
+Taylor Brooks,Manager,Thursday,09:00,17:00,Room C95
+Morgan Diaz,Technician,Friday,09:00,17:00,Room 200

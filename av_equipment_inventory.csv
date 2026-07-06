@@ -1,0 +1,7 @@
+equipment_id,name,type,location,status,ip_address
+projector_1,Main Auditorium Projector,Projector,Pfizer Auditorium,online,192.168.1.10
+display_1,Lobby Smart Display,Smart Display,Education Bldg Lobby,online,192.168.1.11
+switcher_1,HDMI Matrix Switcher,Switcher,Room 200,offline,192.168.1.12
+dsp_1,Audio DSP Unit,DSP,Room 200,online,192.168.1.13
+projector_2,Room 101 Projector,Projector,Room 101,online,192.168.1.14
+display_2,Conference Room Display,Smart Display,Room C95,offline,192.168.1.15
