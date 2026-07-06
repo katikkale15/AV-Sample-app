@@ -26,9 +26,12 @@ The whole idea: spreadsheets in, clean dashboard out, and a button that would ac
 
 *(Swap these placeholders for real screenshots once you've run it — see below)*
 
-![Technician view](screenshots/technician-view.png)
-![Manager view + JSON payload](screenshots/manager-view.png)
-
+![Technician view](<img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/c3a3d5ed-81a5-4738-9f0e-f899fbb4cf17" />
+)
+![Manager view](<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/79ac8925-dc12-4a59-9666-5f04c5c15fee" />
+)
+![Manager view of json](<img width="1639" height="832" alt="image" src="https://github.com/user-attachments/assets/ce41e065-225c-4e03-80b9-2946479b88ac" />
+)
 ---
 
 ## 🚀 Run it yourself (2 minutes)
